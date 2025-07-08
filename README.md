@@ -10,7 +10,7 @@ To promote transparency and trust, we apply LIME (Local Interpretable Model-agno
 #Abstractive Text Summarization (T5-based)-
 For summarization, i implement T5 (Text-To-Text Transfer Transformer) — a powerful encoder-decoder model capable of generating human-like abstractive summaries from long-form news content.
 
-#Features
+#Features:
 Fine-tuned BERT model for fake news classification in Hindi
 LIME-based model interpretation for transparency
 T5-based abstractive summarizer with high-quality results
@@ -18,7 +18,9 @@ Clean and modular code with notebook-based demos
 Visual plots for insights and evaluation
 Hindi text support using nltk and tokenization tools
 
-#Use Cases
+#GUI: for the Graphics User Interface i have use Stream-Lit.
+
+#Use Cases:
 Regional media fact-checking tools
 Explainable AI for content moderation platforms
 Summarization engine for Hindi news apps or portals
