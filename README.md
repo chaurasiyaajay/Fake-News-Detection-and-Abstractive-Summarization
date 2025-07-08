@@ -8,7 +8,7 @@ I use BERT (Bidirectional Encoder Representations from Transformers) for binary 
 To promote transparency and trust, we apply LIME (Local Interpretable Model-agnostic Explanations) to interpret and visualize the model’s decision, helping users understand why a particular article was classified as fake or real.
 
 #Abstractive Text Summarization (T5-based)-
-For summarization, i implement T5 (Text-To-Text Transfer Transformer) — a powerful encoder-decoder model capable of generating human-like abstractive summaries from long-form news content. The model was fine-tuned on summarization datasets like CNN/DailyMail.
+For summarization, i implement T5 (Text-To-Text Transfer Transformer) — a powerful encoder-decoder model capable of generating human-like abstractive summaries from long-form news content.
 
 #Features
 Fine-tuned BERT model for fake news classification in Hindi
